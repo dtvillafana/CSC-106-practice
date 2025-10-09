@@ -129,14 +129,16 @@ the_list = ["sentence.", "is", "not", "a", "grammatical", "This"]
 # Practice 20
 # the general form of a list comprehension is
 # [ <expression> for element in iterable if <boolean expression> ]
-# create a new list using a lst as the iterable in a comprehension that doubles each element
+# create a new list using a lst as the iterable in a comprehension that doubles
+# each element
 lst = [1, 2, 3, 4, 5]
 
 
 # Practice 21
 # the general form of a list comprehension is
 # [ <expression> for element in iterable if <boolean expression> ]
-# create a new list using lst as the iterable in a list comprehension that does not contain even numbers
+# create a new list using lst as the iterable in a list comprehension that does
+# not contain even numbers
 lst = [1, 2, 3, 4, 5, 6]
 
 
