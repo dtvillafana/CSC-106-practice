@@ -1,5 +1,5 @@
 # Adding a new entry
-# Create a dictionary of three countries and their capitals.
+# Update the dictionary of three countries and their capitals.
 # Add two new country-capital pairs and print the updated dictionary.
 
 capitals = {"France": "Paris", "Japan": "Tokyo", "USA": "Washington D.C."}
@@ -54,6 +54,7 @@ string = "adskfljhsldnmbuqiosduixv"
 # your code here
 
 # Create a function that takes a dictionary and a string, and returns a string with the words mapped.
+# the input string should have each word replaced with the values of their corresponding key in the dictionary before it's returned
 
 grug_map = {
     "utilize": "use",
@@ -97,4 +98,8 @@ def factorial(n, cache):
 
     return result, cache
 
+# your code here
+
+
+# For extra credit on the lab, solve the last finger excercise in section 5.8 of the textbook, the "Don Quixote encryption" (2 pts)
 # your code here
