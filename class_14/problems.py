@@ -1,3 +1,4 @@
+# Problem 0
 # Adding a new entry
 # Update the dictionary of three countries and their capitals.
 # Add two new country-capital pairs and print the updated dictionary.
@@ -6,6 +7,7 @@ capitals = {"France": "Paris", "Japan": "Tokyo", "USA": "Washington D.C."}
 # your code here
 
 
+# Problem 1
 # Checking membership
 # Given a dictionary of fruits and colors, ask the user for a fruit and print its color,
 # or print "unknown fruit" if not found.
@@ -14,6 +16,7 @@ fruits = {"apple": "red", "banana": "yellow", "grape": "purple"}
 # your code here
 
 
+# Problem 2
 # Dictionary Iteration
 # Create a dictionary of students and grades, then print each student's name
 # and grade on a new line using a for loop.
@@ -22,6 +25,7 @@ students = {"tom": "B", "amy": "A", "rob": "C"}
 # your code here
 
 
+# Problem 3
 # Replacing simple branching
 # Replace simple if/elif/else structures.
 # Rewrite the below code to use a dictionary instead.
@@ -46,6 +50,7 @@ code = input("Enter letter grade, options: 'A', 'B', 'C', 'D', 'F'")
 # your rewritten code here
 
 
+# Problem 4
 # Dictionaries for counting
 # Use a dictionary to show character frequency.
 # Count all the characters in a string.
@@ -53,6 +58,7 @@ code = input("Enter letter grade, options: 'A', 'B', 'C', 'D', 'F'")
 string = "adskfljhsldnmbuqiosduixv"
 # your code here
 
+# Problem 5
 # Create a function that takes a dictionary and a string, and returns a string with the words mapped.
 # the input string should have each word replaced with the values of their corresponding key in the dictionary before it's returned
 
@@ -82,6 +88,7 @@ grug_map = {
 # your code here
 
 
+# Problem 6
 # observe how caches work by calling this function with 5,6,7, etc
 # print the cache between calls
 def factorial(n, cache):
