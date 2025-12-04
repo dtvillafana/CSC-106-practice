@@ -1,0 +1,4 @@
+* Use
+  - to try out any of these games, you'll have to make sure pygame is installed with pip or some other dependency manager
+  - These sample games are for your inspiration, you may not copy them exactly!
+  - These sample games are also AI slop :)
